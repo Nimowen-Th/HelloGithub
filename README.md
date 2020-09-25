@@ -1,2 +1,0 @@
-# HelloGithub
-My first repository
